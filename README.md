@@ -3,7 +3,7 @@
 I am a [Google certified Associate Cloud Engineer](https://www.credential.net/9d7c974e-91f5-4ce7-aaa2-7173bfa5af35),
 an Economics and Statistics student at the
 [University of Nairobi](https://www.uonbi.ac.ke/)
-and an aspiring data scientist.
+and an aspiring data scientist (most of my work is on [Kaggle](https://kaggle.com/harisonmwangi/)).
 
 During my free time, I help organise events for
 [DevC UoN](https://twitter.com/devcuon).
