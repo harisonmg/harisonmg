@@ -39,7 +39,7 @@ I am a data scientist.
 ## My GitHub Stats :bar_chart:
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonmg&layout=compact&theme=tokyonight&hide=jupyter+notebook&langs_count=8" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonmg&layout=compact&theme=tokyonight&hide=jupyter+notebook&langs_count=6" alt="Top Langs">
 
   <img src="https://github-readme-stats.vercel.app/api?username=harisonmg&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="Harison's GitHub stats">
 </div>
