@@ -38,6 +38,12 @@ I am a data scientist.
 
 ## My GitHub Stats :bar_chart:
 
-![Harison's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisonmg&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisonmg&layout=compact&theme=tokyonight&hide=jupyter+notebook&langs_count=8" alt="Top Langs">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harisonmg&layout=compact&theme=tokyonight&hide=jupyter+notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=harisonmg&show_icons=true&theme=tokyonight&count_private=true&hide=stars" alt="Harison's GitHub stats">
+</div>
+
+<!-- ![Harison's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisonmg&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harisonmg&layout=compact&theme=tokyonight&hide=jupyter+notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
