@@ -2,9 +2,9 @@
 
 I am a data scientist.
 
-## Let's connect
+## Let's connect :handshake:
 
-[![Twitter](https://img.shields.io/twitter/follow/harisonmg?&logo=twitter)](https://twitter.com/harisonmg)
+<!-- [![Twitter](https://img.shields.io/twitter/follow/harisonmg?&logo=twitter)](https://twitter.com/harisonmg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](https://linkedin.com/in/harisonmg)
 
@@ -12,9 +12,9 @@ I am a data scientist.
 
 [![GitHub visitors](https://visitor-badge.laobi.icu/badge?page_id=harisonmg)](https://github.com/harisonmg)
 
-[![GitHub followers](https://img.shields.io/github/followers/harisonmg?&logo=github)](https://github.com/harisonmg?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/harisonmg?&logo=github)](https://github.com/harisonmg?tab=followers) -->
 
-<!-- <p align="left">
+<p align="left">
   <a href="https://twitter.com/harisonmg">
     <img src="https://img.shields.io/twitter/follow/harisonmg?&logo=twitter" alt="Twitter">
   </a>
@@ -34,9 +34,9 @@ I am a data scientist.
   <a href="https://github.com/harisonmg?tab=followers">
     <img src="https://img.shields.io/github/followers/harisonmg?&logo=github" alt="GitHub followers">
   </a>
-</p> -->
+</p>
 
-## My GitHub Stats 📊
+## My GitHub Stats :bar_chart:
 
 ![Harison's GitHub stats](https://github-readme-stats.vercel.app/api?username=harisonmg&show_icons=true&theme=tokyonight&count_private=true&hide=stars)
 
